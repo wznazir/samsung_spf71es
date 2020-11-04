@@ -1,0 +1,1 @@
+# samsung_spf71es
