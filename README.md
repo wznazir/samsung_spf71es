@@ -1,1 +1,2 @@
-# samsung_spf71es
+# Samsung spf71es
+Samsung 7' Photo Frame DataSheet and Resources
